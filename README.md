@@ -1,4 +1,4 @@
-# nekretnine
+# Nekretnine
 Scraping data for analytics
 
 # Instalation process
